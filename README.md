@@ -1,2 +1,2 @@
 # pokedex
-Displays information about various Pokemon
+Pokemon Explorer 
